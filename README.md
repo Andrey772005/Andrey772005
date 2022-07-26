@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Andrew
 - 🌱 I’m currently learning Frontend development
 - 👀 Available for hiring.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiAndrey772005
-anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Andrey772005/Andrey772005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

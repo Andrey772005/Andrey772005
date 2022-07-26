@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Andrew
 - 🌱 I’m currently learning Frontend development
+- 👀 Available for hiring.
 
 
 <!---
